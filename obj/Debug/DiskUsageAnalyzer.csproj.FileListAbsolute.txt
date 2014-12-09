@@ -1,0 +1,15 @@
+C:\Users\y3g0r\Documents\GitHub\DiskUsageAnalyzer.NET\DiskUsageAnalyzer\bin\Debug\DiskUsageAnalyzer.exe.config
+C:\Users\y3g0r\Documents\GitHub\DiskUsageAnalyzer.NET\DiskUsageAnalyzer\bin\Debug\DiskUsageAnalyzer.exe.manifest
+C:\Users\y3g0r\Documents\GitHub\DiskUsageAnalyzer.NET\DiskUsageAnalyzer\bin\Debug\DiskUsageAnalyzer.application
+C:\Users\y3g0r\Documents\GitHub\DiskUsageAnalyzer.NET\DiskUsageAnalyzer\bin\Debug\DiskUsageAnalyzer.exe
+C:\Users\y3g0r\Documents\GitHub\DiskUsageAnalyzer.NET\DiskUsageAnalyzer\bin\Debug\DiskUsageAnalyzer.pdb
+C:\Users\y3g0r\Documents\GitHub\DiskUsageAnalyzer.NET\DiskUsageAnalyzer\obj\Debug\DiskUsageAnalyzer.CircleMap.resources
+C:\Users\y3g0r\Documents\GitHub\DiskUsageAnalyzer.NET\DiskUsageAnalyzer\obj\Debug\DiskUsageAnalyzer.DiskUsageAnalyzerForm.resources
+C:\Users\y3g0r\Documents\GitHub\DiskUsageAnalyzer.NET\DiskUsageAnalyzer\obj\Debug\DiskUsageAnalyzer.Properties.Resources.resources
+C:\Users\y3g0r\Documents\GitHub\DiskUsageAnalyzer.NET\DiskUsageAnalyzer\obj\Debug\DiskUsageAnalyzer.FormAbout.resources
+C:\Users\y3g0r\Documents\GitHub\DiskUsageAnalyzer.NET\DiskUsageAnalyzer\obj\Debug\DiskUsageAnalyzer.csproj.GenerateResource.Cache
+C:\Users\y3g0r\Documents\GitHub\DiskUsageAnalyzer.NET\DiskUsageAnalyzer\obj\Debug\DiskUsageAnalyzer.exe.manifest
+C:\Users\y3g0r\Documents\GitHub\DiskUsageAnalyzer.NET\DiskUsageAnalyzer\obj\Debug\DiskUsageAnalyzer.application
+C:\Users\y3g0r\Documents\GitHub\DiskUsageAnalyzer.NET\DiskUsageAnalyzer\obj\Debug\DiskUsageAnalyzer.exe
+C:\Users\y3g0r\Documents\GitHub\DiskUsageAnalyzer.NET\DiskUsageAnalyzer\obj\Debug\DiskUsageAnalyzer.pdb
+C:\Users\y3g0r\Documents\GitHub\DiskUsageAnalyzer.NET\DiskUsageAnalyzer\obj\Debug\DiskUsageAnalyzer.csprojResolveAssemblyReference.cache
